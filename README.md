@@ -12,18 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/jeepvan_">
-    <img src="https://cdn.simpleicons.org/x/white" width="28">
-  </a>
+  <a href="https://x.com/jeepvan_"><img src="https://cdn.simpleicons.org/x/white" width="28"></a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/jeevanshu.srivastava">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28">
-  </a>
+  <a href="https://instagram.com/jeevanshu.srivastava"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28"></a>
   &nbsp;&nbsp;
-  <a href="https://pinterest.com/jeepvan_">
-    <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="28">
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/jeepvan/jeepvan?style=flat-square&label=last%20commit&color=53b14f">
+  <a href="https://pinterest.com/jeepvan_"><img src="https://cdn.simpleicons.org/pinterest/BD081C" width="28"></a>
 </p>
