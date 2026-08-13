@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/YOUR_X_HANDLE">
+  <a href="https://x.com/jeepvan_">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-  <a href="https://instagram.com/YOUR_INSTA_HANDLE">
+  <a href="https://instagram.com/jeevanshu.srivastava">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://pinterest.com/YOUR_PINTEREST_HANDLE">
+  <a href="https://pinterest.com/jeepvan_">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white">
   </a>
 </p>
