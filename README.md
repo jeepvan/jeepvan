@@ -19,3 +19,9 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/jeepvan/jeepvan?style=for-the-badge&label=last%20commit&color=53b14f">
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeepvan/jeepvan/output/github-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/jeepvan/jeepvan/output/github-snake.svg">
+</picture>
