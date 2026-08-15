@@ -5,13 +5,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeepvan/jeepvan/output/github-snake-dark.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/jeepvan/jeepvan/output/github-snake.svg" height="150">
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://x.com/jeepvan_"><img src="https://cdn.simpleicons.org/x/white" width="28"></a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/jeevanshu.srivastava"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="28"></a>
